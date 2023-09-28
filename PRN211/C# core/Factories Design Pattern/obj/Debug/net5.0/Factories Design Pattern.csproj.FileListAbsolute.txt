@@ -1,0 +1,15 @@
+E:\Study\Coding\PRN211\C# core\Factories Design Pattern\bin\Debug\net5.0\Factories Design Pattern.exe
+E:\Study\Coding\PRN211\C# core\Factories Design Pattern\bin\Debug\net5.0\Factories Design Pattern.deps.json
+E:\Study\Coding\PRN211\C# core\Factories Design Pattern\bin\Debug\net5.0\Factories Design Pattern.runtimeconfig.json
+E:\Study\Coding\PRN211\C# core\Factories Design Pattern\bin\Debug\net5.0\Factories Design Pattern.runtimeconfig.dev.json
+E:\Study\Coding\PRN211\C# core\Factories Design Pattern\bin\Debug\net5.0\Factories Design Pattern.dll
+E:\Study\Coding\PRN211\C# core\Factories Design Pattern\bin\Debug\net5.0\Factories Design Pattern.pdb
+E:\Study\Coding\PRN211\C# core\Factories Design Pattern\obj\Debug\net5.0\Factories Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Coding\PRN211\C# core\Factories Design Pattern\obj\Debug\net5.0\Factories Design Pattern.AssemblyInfoInputs.cache
+E:\Study\Coding\PRN211\C# core\Factories Design Pattern\obj\Debug\net5.0\Factories Design Pattern.AssemblyInfo.cs
+E:\Study\Coding\PRN211\C# core\Factories Design Pattern\obj\Debug\net5.0\Factories Design Pattern.csproj.CoreCompileInputs.cache
+E:\Study\Coding\PRN211\C# core\Factories Design Pattern\obj\Debug\net5.0\Factories Design Pattern.dll
+E:\Study\Coding\PRN211\C# core\Factories Design Pattern\obj\Debug\net5.0\refint\Factories Design Pattern.dll
+E:\Study\Coding\PRN211\C# core\Factories Design Pattern\obj\Debug\net5.0\Factories Design Pattern.pdb
+E:\Study\Coding\PRN211\C# core\Factories Design Pattern\obj\Debug\net5.0\Factories Design Pattern.genruntimeconfig.cache
+E:\Study\Coding\PRN211\C# core\Factories Design Pattern\obj\Debug\net5.0\ref\Factories Design Pattern.dll

@@ -1,0 +1,15 @@
+E:\Study\Coding\PRN211\InputOutput\bin\Debug\net5.0\InputOutput.exe
+E:\Study\Coding\PRN211\InputOutput\bin\Debug\net5.0\InputOutput.deps.json
+E:\Study\Coding\PRN211\InputOutput\bin\Debug\net5.0\InputOutput.runtimeconfig.json
+E:\Study\Coding\PRN211\InputOutput\bin\Debug\net5.0\InputOutput.runtimeconfig.dev.json
+E:\Study\Coding\PRN211\InputOutput\bin\Debug\net5.0\InputOutput.dll
+E:\Study\Coding\PRN211\InputOutput\bin\Debug\net5.0\InputOutput.pdb
+E:\Study\Coding\PRN211\InputOutput\obj\Debug\net5.0\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Coding\PRN211\InputOutput\obj\Debug\net5.0\InputOutput.AssemblyInfoInputs.cache
+E:\Study\Coding\PRN211\InputOutput\obj\Debug\net5.0\InputOutput.AssemblyInfo.cs
+E:\Study\Coding\PRN211\InputOutput\obj\Debug\net5.0\InputOutput.csproj.CoreCompileInputs.cache
+E:\Study\Coding\PRN211\InputOutput\obj\Debug\net5.0\InputOutput.dll
+E:\Study\Coding\PRN211\InputOutput\obj\Debug\net5.0\refint\InputOutput.dll
+E:\Study\Coding\PRN211\InputOutput\obj\Debug\net5.0\InputOutput.pdb
+E:\Study\Coding\PRN211\InputOutput\obj\Debug\net5.0\InputOutput.genruntimeconfig.cache
+E:\Study\Coding\PRN211\InputOutput\obj\Debug\net5.0\ref\InputOutput.dll

@@ -1,0 +1,14 @@
+E:\Study\Coding\PRN211\C# core\Homework2-day3-150923\bin\Debug\net6.0\Homework2-day3-150923.exe
+E:\Study\Coding\PRN211\C# core\Homework2-day3-150923\bin\Debug\net6.0\Homework2-day3-150923.deps.json
+E:\Study\Coding\PRN211\C# core\Homework2-day3-150923\bin\Debug\net6.0\Homework2-day3-150923.runtimeconfig.json
+E:\Study\Coding\PRN211\C# core\Homework2-day3-150923\bin\Debug\net6.0\Homework2-day3-150923.dll
+E:\Study\Coding\PRN211\C# core\Homework2-day3-150923\bin\Debug\net6.0\Homework2-day3-150923.pdb
+E:\Study\Coding\PRN211\C# core\Homework2-day3-150923\obj\Debug\net6.0\Homework2-day3-150923.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Coding\PRN211\C# core\Homework2-day3-150923\obj\Debug\net6.0\Homework2-day3-150923.AssemblyInfoInputs.cache
+E:\Study\Coding\PRN211\C# core\Homework2-day3-150923\obj\Debug\net6.0\Homework2-day3-150923.AssemblyInfo.cs
+E:\Study\Coding\PRN211\C# core\Homework2-day3-150923\obj\Debug\net6.0\Homework2-day3-150923.csproj.CoreCompileInputs.cache
+E:\Study\Coding\PRN211\C# core\Homework2-day3-150923\obj\Debug\net6.0\Homework2-day3-150923.dll
+E:\Study\Coding\PRN211\C# core\Homework2-day3-150923\obj\Debug\net6.0\refint\Homework2-day3-150923.dll
+E:\Study\Coding\PRN211\C# core\Homework2-day3-150923\obj\Debug\net6.0\Homework2-day3-150923.pdb
+E:\Study\Coding\PRN211\C# core\Homework2-day3-150923\obj\Debug\net6.0\Homework2-day3-150923.genruntimeconfig.cache
+E:\Study\Coding\PRN211\C# core\Homework2-day3-150923\obj\Debug\net6.0\ref\Homework2-day3-150923.dll

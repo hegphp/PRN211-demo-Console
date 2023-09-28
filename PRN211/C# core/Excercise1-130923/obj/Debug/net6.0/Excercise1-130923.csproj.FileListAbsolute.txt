@@ -1,0 +1,14 @@
+E:\Study\Coding\PRN211\C# core\Excercise1-130923\bin\Debug\net6.0\Excercise1-130923.exe
+E:\Study\Coding\PRN211\C# core\Excercise1-130923\bin\Debug\net6.0\Excercise1-130923.deps.json
+E:\Study\Coding\PRN211\C# core\Excercise1-130923\bin\Debug\net6.0\Excercise1-130923.runtimeconfig.json
+E:\Study\Coding\PRN211\C# core\Excercise1-130923\bin\Debug\net6.0\Excercise1-130923.dll
+E:\Study\Coding\PRN211\C# core\Excercise1-130923\bin\Debug\net6.0\Excercise1-130923.pdb
+E:\Study\Coding\PRN211\C# core\Excercise1-130923\obj\Debug\net6.0\Excercise1-130923.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Coding\PRN211\C# core\Excercise1-130923\obj\Debug\net6.0\Excercise1-130923.AssemblyInfoInputs.cache
+E:\Study\Coding\PRN211\C# core\Excercise1-130923\obj\Debug\net6.0\Excercise1-130923.AssemblyInfo.cs
+E:\Study\Coding\PRN211\C# core\Excercise1-130923\obj\Debug\net6.0\Excercise1-130923.csproj.CoreCompileInputs.cache
+E:\Study\Coding\PRN211\C# core\Excercise1-130923\obj\Debug\net6.0\Excercise1-130923.dll
+E:\Study\Coding\PRN211\C# core\Excercise1-130923\obj\Debug\net6.0\refint\Excercise1-130923.dll
+E:\Study\Coding\PRN211\C# core\Excercise1-130923\obj\Debug\net6.0\Excercise1-130923.pdb
+E:\Study\Coding\PRN211\C# core\Excercise1-130923\obj\Debug\net6.0\Excercise1-130923.genruntimeconfig.cache
+E:\Study\Coding\PRN211\C# core\Excercise1-130923\obj\Debug\net6.0\ref\Excercise1-130923.dll

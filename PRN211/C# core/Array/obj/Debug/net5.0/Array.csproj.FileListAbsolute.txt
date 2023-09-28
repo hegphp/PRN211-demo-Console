@@ -1,0 +1,15 @@
+E:\Study\Coding\PRN211\C# core\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Coding\PRN211\C# core\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+E:\Study\Coding\PRN211\C# core\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+E:\Study\Coding\PRN211\C# core\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+E:\Study\Coding\PRN211\C# core\Array\bin\Debug\net5.0\Array.exe
+E:\Study\Coding\PRN211\C# core\Array\bin\Debug\net5.0\Array.deps.json
+E:\Study\Coding\PRN211\C# core\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+E:\Study\Coding\PRN211\C# core\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+E:\Study\Coding\PRN211\C# core\Array\bin\Debug\net5.0\Array.dll
+E:\Study\Coding\PRN211\C# core\Array\bin\Debug\net5.0\Array.pdb
+E:\Study\Coding\PRN211\C# core\Array\obj\Debug\net5.0\Array.dll
+E:\Study\Coding\PRN211\C# core\Array\obj\Debug\net5.0\refint\Array.dll
+E:\Study\Coding\PRN211\C# core\Array\obj\Debug\net5.0\Array.pdb
+E:\Study\Coding\PRN211\C# core\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
+E:\Study\Coding\PRN211\C# core\Array\obj\Debug\net5.0\ref\Array.dll

@@ -1,0 +1,15 @@
+E:\Study\Coding\PRN211\ConsoleDemoApps\bin\Debug\net5.0\ConsoleDemoApps.exe
+E:\Study\Coding\PRN211\ConsoleDemoApps\bin\Debug\net5.0\ConsoleDemoApps.deps.json
+E:\Study\Coding\PRN211\ConsoleDemoApps\bin\Debug\net5.0\ConsoleDemoApps.runtimeconfig.json
+E:\Study\Coding\PRN211\ConsoleDemoApps\bin\Debug\net5.0\ConsoleDemoApps.runtimeconfig.dev.json
+E:\Study\Coding\PRN211\ConsoleDemoApps\bin\Debug\net5.0\ConsoleDemoApps.dll
+E:\Study\Coding\PRN211\ConsoleDemoApps\bin\Debug\net5.0\ConsoleDemoApps.pdb
+E:\Study\Coding\PRN211\ConsoleDemoApps\obj\Debug\net5.0\ConsoleDemoApps.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Coding\PRN211\ConsoleDemoApps\obj\Debug\net5.0\ConsoleDemoApps.AssemblyInfoInputs.cache
+E:\Study\Coding\PRN211\ConsoleDemoApps\obj\Debug\net5.0\ConsoleDemoApps.AssemblyInfo.cs
+E:\Study\Coding\PRN211\ConsoleDemoApps\obj\Debug\net5.0\ConsoleDemoApps.csproj.CoreCompileInputs.cache
+E:\Study\Coding\PRN211\ConsoleDemoApps\obj\Debug\net5.0\ConsoleDemoApps.dll
+E:\Study\Coding\PRN211\ConsoleDemoApps\obj\Debug\net5.0\refint\ConsoleDemoApps.dll
+E:\Study\Coding\PRN211\ConsoleDemoApps\obj\Debug\net5.0\ConsoleDemoApps.pdb
+E:\Study\Coding\PRN211\ConsoleDemoApps\obj\Debug\net5.0\ConsoleDemoApps.genruntimeconfig.cache
+E:\Study\Coding\PRN211\ConsoleDemoApps\obj\Debug\net5.0\ref\ConsoleDemoApps.dll

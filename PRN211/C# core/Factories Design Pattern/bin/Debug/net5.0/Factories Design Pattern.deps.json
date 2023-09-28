@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Factories Design Pattern/1.0.0": {
+        "runtime": {
+          "Factories Design Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Factories Design Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

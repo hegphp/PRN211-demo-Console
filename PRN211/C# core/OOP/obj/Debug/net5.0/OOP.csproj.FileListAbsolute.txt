@@ -1,0 +1,15 @@
+E:\Study\Coding\PRN211\C# core\OOP\bin\Debug\net5.0\OOP.exe
+E:\Study\Coding\PRN211\C# core\OOP\bin\Debug\net5.0\OOP.deps.json
+E:\Study\Coding\PRN211\C# core\OOP\bin\Debug\net5.0\OOP.runtimeconfig.json
+E:\Study\Coding\PRN211\C# core\OOP\bin\Debug\net5.0\OOP.runtimeconfig.dev.json
+E:\Study\Coding\PRN211\C# core\OOP\bin\Debug\net5.0\OOP.dll
+E:\Study\Coding\PRN211\C# core\OOP\bin\Debug\net5.0\OOP.pdb
+E:\Study\Coding\PRN211\C# core\OOP\obj\Debug\net5.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Coding\PRN211\C# core\OOP\obj\Debug\net5.0\OOP.AssemblyInfoInputs.cache
+E:\Study\Coding\PRN211\C# core\OOP\obj\Debug\net5.0\OOP.AssemblyInfo.cs
+E:\Study\Coding\PRN211\C# core\OOP\obj\Debug\net5.0\OOP.csproj.CoreCompileInputs.cache
+E:\Study\Coding\PRN211\C# core\OOP\obj\Debug\net5.0\OOP.dll
+E:\Study\Coding\PRN211\C# core\OOP\obj\Debug\net5.0\refint\OOP.dll
+E:\Study\Coding\PRN211\C# core\OOP\obj\Debug\net5.0\OOP.pdb
+E:\Study\Coding\PRN211\C# core\OOP\obj\Debug\net5.0\OOP.genruntimeconfig.cache
+E:\Study\Coding\PRN211\C# core\OOP\obj\Debug\net5.0\ref\OOP.dll

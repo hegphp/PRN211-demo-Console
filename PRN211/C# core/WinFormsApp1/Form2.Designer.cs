@@ -1,0 +1,65 @@
+﻿namespace WinFormsApp1 {
+    partial class Form2 {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing) {
+            if (disposing && (components != null)) {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent() {
+            tbContent = new TextBox();
+            btSubmit = new Button();
+            SuspendLayout();
+            // 
+            // tbContent
+            // 
+            tbContent.Location = new Point(176, 113);
+            tbContent.Name = "tbContent";
+            tbContent.Size = new Size(191, 23);
+            tbContent.TabIndex = 0;
+            tbContent.TextChanged += textBox1_TextChanged;
+            // 
+            // btSubmit
+            // 
+            btSubmit.Location = new Point(363, 113);
+            btSubmit.Name = "btSubmit";
+            btSubmit.Size = new Size(75, 23);
+            btSubmit.TabIndex = 1;
+            btSubmit.Text = "Submit";
+            btSubmit.UseVisualStyleBackColor = true;
+            // 
+            // Form2
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(btSubmit);
+            Controls.Add(tbContent);
+            Name = "Form2";
+            Text = "Form2";
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private TextBox tbContent;
+        private Button btSubmit;
+    }
+}

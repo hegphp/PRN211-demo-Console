@@ -1,0 +1,14 @@
+E:\Study\Coding\PRN211\C# core\DemoExtensionMethod\bin\Debug\net6.0\DemoExtensionMethod.exe
+E:\Study\Coding\PRN211\C# core\DemoExtensionMethod\bin\Debug\net6.0\DemoExtensionMethod.deps.json
+E:\Study\Coding\PRN211\C# core\DemoExtensionMethod\bin\Debug\net6.0\DemoExtensionMethod.runtimeconfig.json
+E:\Study\Coding\PRN211\C# core\DemoExtensionMethod\bin\Debug\net6.0\DemoExtensionMethod.dll
+E:\Study\Coding\PRN211\C# core\DemoExtensionMethod\bin\Debug\net6.0\DemoExtensionMethod.pdb
+E:\Study\Coding\PRN211\C# core\DemoExtensionMethod\obj\Debug\net6.0\DemoExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Coding\PRN211\C# core\DemoExtensionMethod\obj\Debug\net6.0\DemoExtensionMethod.AssemblyInfoInputs.cache
+E:\Study\Coding\PRN211\C# core\DemoExtensionMethod\obj\Debug\net6.0\DemoExtensionMethod.AssemblyInfo.cs
+E:\Study\Coding\PRN211\C# core\DemoExtensionMethod\obj\Debug\net6.0\DemoExtensionMethod.csproj.CoreCompileInputs.cache
+E:\Study\Coding\PRN211\C# core\DemoExtensionMethod\obj\Debug\net6.0\DemoExtensionMethod.dll
+E:\Study\Coding\PRN211\C# core\DemoExtensionMethod\obj\Debug\net6.0\refint\DemoExtensionMethod.dll
+E:\Study\Coding\PRN211\C# core\DemoExtensionMethod\obj\Debug\net6.0\DemoExtensionMethod.pdb
+E:\Study\Coding\PRN211\C# core\DemoExtensionMethod\obj\Debug\net6.0\DemoExtensionMethod.genruntimeconfig.cache
+E:\Study\Coding\PRN211\C# core\DemoExtensionMethod\obj\Debug\net6.0\ref\DemoExtensionMethod.dll

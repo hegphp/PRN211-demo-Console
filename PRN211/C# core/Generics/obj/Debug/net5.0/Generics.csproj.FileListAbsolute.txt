@@ -1,0 +1,15 @@
+E:\Study\Coding\PRN211\C# core\Generics\bin\Debug\net5.0\Generics.exe
+E:\Study\Coding\PRN211\C# core\Generics\bin\Debug\net5.0\Generics.deps.json
+E:\Study\Coding\PRN211\C# core\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+E:\Study\Coding\PRN211\C# core\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+E:\Study\Coding\PRN211\C# core\Generics\bin\Debug\net5.0\Generics.dll
+E:\Study\Coding\PRN211\C# core\Generics\bin\Debug\net5.0\Generics.pdb
+E:\Study\Coding\PRN211\C# core\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Coding\PRN211\C# core\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+E:\Study\Coding\PRN211\C# core\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+E:\Study\Coding\PRN211\C# core\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+E:\Study\Coding\PRN211\C# core\Generics\obj\Debug\net5.0\Generics.dll
+E:\Study\Coding\PRN211\C# core\Generics\obj\Debug\net5.0\refint\Generics.dll
+E:\Study\Coding\PRN211\C# core\Generics\obj\Debug\net5.0\Generics.pdb
+E:\Study\Coding\PRN211\C# core\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache
+E:\Study\Coding\PRN211\C# core\Generics\obj\Debug\net5.0\ref\Generics.dll

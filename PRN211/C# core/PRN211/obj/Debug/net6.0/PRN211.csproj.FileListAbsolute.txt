@@ -1,0 +1,14 @@
+E:\Study\Coding\PRN211\C# core\PRN211\bin\Debug\net6.0\PRN211.exe
+E:\Study\Coding\PRN211\C# core\PRN211\bin\Debug\net6.0\PRN211.deps.json
+E:\Study\Coding\PRN211\C# core\PRN211\bin\Debug\net6.0\PRN211.runtimeconfig.json
+E:\Study\Coding\PRN211\C# core\PRN211\bin\Debug\net6.0\PRN211.dll
+E:\Study\Coding\PRN211\C# core\PRN211\bin\Debug\net6.0\PRN211.pdb
+E:\Study\Coding\PRN211\C# core\PRN211\obj\Debug\net6.0\PRN211.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Coding\PRN211\C# core\PRN211\obj\Debug\net6.0\PRN211.AssemblyInfoInputs.cache
+E:\Study\Coding\PRN211\C# core\PRN211\obj\Debug\net6.0\PRN211.AssemblyInfo.cs
+E:\Study\Coding\PRN211\C# core\PRN211\obj\Debug\net6.0\PRN211.csproj.CoreCompileInputs.cache
+E:\Study\Coding\PRN211\C# core\PRN211\obj\Debug\net6.0\PRN211.dll
+E:\Study\Coding\PRN211\C# core\PRN211\obj\Debug\net6.0\refint\PRN211.dll
+E:\Study\Coding\PRN211\C# core\PRN211\obj\Debug\net6.0\PRN211.pdb
+E:\Study\Coding\PRN211\C# core\PRN211\obj\Debug\net6.0\PRN211.genruntimeconfig.cache
+E:\Study\Coding\PRN211\C# core\PRN211\obj\Debug\net6.0\ref\PRN211.dll
